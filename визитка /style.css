@@ -14,7 +14,6 @@ body {
     max-width: 1245px;
     margin: 0px auto;
     padding: 0 15px;
-    background-color: #BC3CD8;
 }
 .header {
     padding: 35px;
@@ -23,7 +22,6 @@ body {
     left: 0;
     right: 0;
     z-index: 5;
-    background-color:aqua;
 }
 .header__container {
     display: flex;
